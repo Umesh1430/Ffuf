@@ -1,4 +1,4 @@
-# FfufFfuf
+# Ffuf
 FFUF (Fuzz Faster U Fool) is a web fuzzing tool that allows you to discover hidden directories, files, and parameters on a web server. It is particularly useful for penetration testers and security researchers working with Kali Linux.
 
 FFUF (Fuzz Faster U Fool) is an open-source web fuzzing tool designed to help security professionals discover hidden resources, parameters, and vulnerabilities in web applications. Fuzzing is a technique used in security testing to find bugs and vulnerabilities by inputting massive amounts of random data, called fuzz, into the software application.
